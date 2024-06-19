@@ -1,11 +1,11 @@
-import { defineConfig } from 'vitepress'
 import sidebar from './sidebar'
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default {
   title: "Ciência da Computação - UBL",
   description: "Anotações das matérias de Ciência da Computação da Universidade Brasileira Livre",
   themeConfig: {
+    base: '/ubl-ciencia-computacao/',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
@@ -18,4 +18,4 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/techhub-br/ubl-ciencia-computacao' }
     ]
   }
-})
+}
