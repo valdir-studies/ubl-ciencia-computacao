@@ -15,7 +15,7 @@ export default {
     sidebar: sidebar(),
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/techhub-br/ubl-ciencia-computacao' }
+      { icon: 'github', link: 'https://github.com/valdir-studies/ubl-ciencia-computacao' }
     ]
   }
 }
