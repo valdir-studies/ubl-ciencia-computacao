@@ -12,7 +12,9 @@ export default function sidebar() {
           { text: 'Representação Binária com Sinal', link: '/circuitos-digitais/representacao-binaria-sinal' },
           { text: 'Aritmética BCD', link: '/circuitos-digitais/aritmetica-bcd' },
           { text: 'Ferramentas de Descrição de Circuitos Digitais', link: '/circuitos-digitais/ferramentas-descricao-circuitos'},
-          { text: 'Funções e Portas Lógicas', link: '/circuitos-digitais/funcoes-portas-logicas'}
+          { text: 'Funções e Portas Lógicas', link: '/circuitos-digitais/funcoes-portas-logicas'},
+          { text: 'Propriedades da Álgebra Booleana', link: '/circuitos-digitais/propriedades-algebra-booleana'},
+        
         ],
       },
     ];
