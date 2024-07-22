@@ -14,7 +14,8 @@ export default function sidebar() {
           { text: 'Ferramentas de Descrição de Circuitos Digitais', link: '/circuitos-digitais/ferramentas-descricao-circuitos'},
           { text: 'Funções e Portas Lógicas', link: '/circuitos-digitais/funcoes-portas-logicas'},
           { text: 'Propriedades da Álgebra Booleana', link: '/circuitos-digitais/propriedades-algebra-booleana'},
-        
+          { text: 'Formas Canônicas', link: '/circuitos-digitais/formas-canonicas'},
+
         ],
       },
     ];
