@@ -15,7 +15,7 @@ export default function sidebar() {
           { text: 'Funções e Portas Lógicas', link: '/circuitos-digitais/funcoes-portas-logicas'},
           { text: 'Propriedades da Álgebra Booleana', link: '/circuitos-digitais/propriedades-algebra-booleana'},
           { text: 'Formas Canônicas', link: '/circuitos-digitais/formas-canonicas'},
-
+          { text: 'Mapas de Karnaugh', link: '/circuitos-digitais/mapas-karnaugh'},
         ],
       },
     ];
