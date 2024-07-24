@@ -2,7 +2,7 @@ export default function sidebar() {
     return [
       {
         text: 'Circuitos Digitais - 1º Semestre',
-        collapsed: true,
+        collapsed: false,
         collapsible: true,
         items: [
           { text: 'Introdução', link: '/circuitos-digitais/introducao' },
@@ -18,5 +18,14 @@ export default function sidebar() {
           { text: 'Mapas de Karnaugh', link: '/circuitos-digitais/mapas-karnaugh'},
         ],
       },
+      {
+        text: 'Matemática Discreta - 1º Semestre',
+        collapsed: false,
+        collapsible: true,
+        items: [
+          { text: 'Lógica Matemática', link: '/matematica-discreta/logica-matematica' },
+
+        ]
+      }
     ];
   }
