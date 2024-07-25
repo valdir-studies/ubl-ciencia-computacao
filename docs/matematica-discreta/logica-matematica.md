@@ -42,3 +42,9 @@ Quando uma proposição não tem como ser dividida em proposições menores, ela
 - negação: ¬p, significando "não p"
 - implicação: p -> q, significando "se p, então q"
 - equivalência: p <-> q, significando "p se, e somente se, q"
+
+### Tautologias e contradições
+
+Tautologia é uma proposição composta que é sempre verdadeira, quaisquer que sejam os valores lógicos das proposições que a compõem, por exemplo p v ¬p.
+
+Já a contradição pelo contrário é a negação da tautologia, isso é, uma proposição composta que sempre é falsa.
